@@ -1,1 +1,4 @@
-This is just a random file I created with GitHub to test the pull command
+This is just a random file I created with GitHub to test the pull command.
+
+I created this online, used git pull and now I can edit it in my local repo and reupload it using
+git commit -m "randomComment" MadeWithGitHub
